@@ -1,16 +1,20 @@
-## Hi there 👋
+## Привет! Я Екатерина Клинкова, продуктовый аналитик
 
-<!--
-**eklinkova-pf/eklinkova-pf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Помогаю командам принимать решения на основе данных: от постановки гипотез до внедрения метрик и анализа экспериментов.
 
-Here are some ideas to get you started:
+**Что умею:**
+- Формулировать и проверять продуктовые гипотезы
+- Проводить A/B‑тесты и анализировать их результаты
+- Строить дашборды и визуализировать данные
+- Работать с SQL и Python (pandas, matplotlib, seaborn, scipy, statsmodels)
+- Понимать бизнес‑цели и переводить их в продуктовые задачи
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Инструменты:** SQL (PostgreeSQL, MSSQL, Oracle), Python, Jupyter Notebook, Datalens, Jira, Confluence
+
+Готова выполнить тестовое задание и пройти собеседование.
+
+**Связаться со мной:**
+- Email: etihon@gmail.com
+- LinkedIn: [linkedin.com/in/ekaterina-klinkova-6763a925]( https://www.linkedin.com/in/ekaterina-klinkova-6763a925)
+- Telegram: https://t.me/ekaklinkova
+  
