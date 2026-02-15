@@ -16,5 +16,5 @@
 **Связаться со мной:**
 - Email: etihon@gmail.com
 - LinkedIn: [linkedin.com/in/ekaterina-klinkova-6763a925]( https://www.linkedin.com/in/ekaterina-klinkova-6763a925)
-- Telegram: https://t.me/ekaklinkova
+- Telegram: [@ekaklinkova] (https://t.me/ekaklinkova)
   
